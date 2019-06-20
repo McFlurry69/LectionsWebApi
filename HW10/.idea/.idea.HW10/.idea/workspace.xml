@@ -1,0 +1,1340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f2e5b06d-162b-4ef4-8967-c5f7f3a74039" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.HW10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HW10/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConnectLibrary/ConnectLibrary.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ConnectLibrary/ConnectLibrary.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConnectLibrary/LibrarySettings.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConnectLibrary/LibrarySettings.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConnectLibrary/Notification.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConnectLibrary/Notification.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConnectLibrary/Service/CommonService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConnectLibrary/Service/CommonService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConnectionLibrary.Tests/GradeServiceTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConnectionLibrary.Tests/GradeServiceTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelperLibrary/HelperLibrary.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/HelperLibrary/HelperLibrary.csproj" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="HW10" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ConnectLibrary/ConnectLibrary.csproj">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HelperLibrary/HelperLibrary.csproj">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WebLectionAPI/WebLectionAPI.csproj">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Groups</find>
+      <find>23233.ru</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/ConnectLibrary/Logger/ILogging.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConnectLibrary/Logger/LoggerOperation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConnectionLibrary.Tests/LecturerServiceTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConnectionLibrary.Tests/StudentServiceTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConnectionLibrary.Tests/SubjectServiceTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConnectionLibrary.Tests/LectionServiceTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConnectionLibrary.Tests/GroupServiceTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HelperLibrary/CustomExceptions/InvalidNameException.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/Source/02558.00/Source/ndp/clr/src/BCL/system/exception.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HelperLibrary/CustomExceptions/InvalidGradeException.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HelperLibrary/CustomExceptions/InvalidPhoneException.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HelperLibrary/CustomExceptions/InvalidMailExeption.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConnectLibrary/ValidationCheckClass.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/497E7C03-5433-4AE6-B257-9B219192BCF0/43/92382584/TestWorker.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B615F366-D254-4C2F-BD95-846AC52F06E4/cb/90df1e18/ILog.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConnectLibrary/Service/GropusService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConnectLibrary/Service/LectionsService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConnectLibrary/SQLRepository/Interfaces/ILectionsRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebLectionAPI/log4net.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConnectLibrary/SQLRepository/CommonRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HelperLibrary/Models/CommonModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/497E7C03-5433-4AE6-B257-9B219192BCF0/5e/6aab0533/CollectionAssert.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConnectLibrary/LibrarySettings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/497E7C03-5433-4AE6-B257-9B219192BCF0/53/f0861e5f/Assert.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConnectLibrary/Service/CommonService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConnectLibrary/SQLRepository/Interfaces/ICommonRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/497E7C03-5433-4AE6-B257-9B219192BCF0/79/7c12f9cb/CompositeWorkItem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/497E7C03-5433-4AE6-B257-9B219192BCF0/92/583b0f0d/ParallelWorkItemDispatcher.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HelperLibrary/CustomExceptions/InvalidLecturerNameException.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HelperLibrary/CustomExceptions/InvalidSubjectNameException.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConnectionLibrary.Tests/CommonServiceTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/497E7C03-5433-4AE6-B257-9B219192BCF0/80/5764ba98/WorkItem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/57139BFC-E1DA-4913-8884-2BBBF31D74D3/36/00638346/ExceptionDispatchInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HelperLibrary/Models/GradeModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HelperLibrary/Models/GroupModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HelperLibrary/Models/LecturerModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HelperLibrary/Models/StudentModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HelperLibrary/Models/LectionModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HelperLibrary/Models/SubjectModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/Source/02558.00/Source/ndp/clr/src/BCL/system/reflection/mdimport.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HelperLibrary/Models/Interfaces/IPerson.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConnectionLibrary.Tests/packages.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HelperLibrary/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/Source/02558.00/Source/ndp/clr/src/BCL/system/collections/generic/list.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/2C4210EF-0B30-46C1-8D08-F9205B81F2E1/C/SqlMapper.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/Source/02558.00/Source/ndp/clr/src/BCL/system/object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebLectionAPI/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/2C4210EF-0B30-46C1-8D08-F9205B81F2E1/1/CommandDefinition.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/Source/02558.00/Source/ndp/fx/src/Core/System/Collections/Generic/HashSet.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AE6C90D9-6D92-4F59-B40A-24D6B3E18B49/78/21b9f6cf/Service.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebLectionAPI/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AE6C90D9-6D92-4F59-B40A-24D6B3E18B49/01/80c8e072/TypedService.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/Source/02558.00/Source/ndp/clr/src/BCL/system/datetime.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/Source/02558.00/Source/ndp/clr/src/BCL/system/paramsarray.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/Source/02558.00/Source/ndp/clr/src/BCL/system/string.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AE6C90D9-6D92-4F59-B40A-24D6B3E18B49/e6/70666922/ResolutionExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/127E718A-C42E-4542-A71B-54CEC3EF156B/18/1e86c897/WebHostBuilder.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/BB5CAB5E-7C89-46A4-98F7-72D55F3A0CB3/1/AutoMock.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/57139BFC-E1DA-4913-8884-2BBBF31D74D3/a8/8f4db401/TargetInvocationException.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/Source/02558.00/Source/ndp/fx/src/data/System/Data/SqlClient/SqlConnection.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebLectionAPI/Controllers/StudentGradesController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/57139BFC-E1DA-4913-8884-2BBBF31D74D3/24/f178032e/SR.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/Source/02558.00/Source/ndp/fx/src/data/System/Data/ProviderBase/DbConnectionInternal.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/Source/02558.00/Source/ndp/clr/src/BCL/system/eventargs.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConnectLibrary/Notification.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConnectionLibrary.Tests/GradeServiceTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HelperLibrary/Models/StudentEventArgs.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebLectionAPI/Controllers/GroupController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebLectionAPI/Controllers/LecturerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebLectionAPI/Controllers/LectionController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebLectionAPI/Controllers/GradeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebLectionAPI/Controllers/SubjectController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/Source/02558.00/Source/ndp/clr/src/BCL/system/array.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/Source/02558.00/Source/ndp/fx/src/data/System/Data/SqlClient/SqlCommand.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebLectionAPI/Controllers/StudentController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConnectLibrary/Enums.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConnectLibrary/DBConnection.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/Source/02558.00/Source/ndp/fx/src/Core/System/Linq/Enumerable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/2C4210EF-0B30-46C1-8D08-F9205B81F2E1/6/DynamicParameters.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConnectLibrary/packages.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/Source/02558.00/Source/ndp/clr/src/BCL/system/collections/generic/dictionary.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConnectLibrary/Service/StudentsService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConnectLibrary/Service/GradesService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConnectLibrary/Service/SubjectsService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/Source/02558.00/Source/ndp/clr/src/BCL/system/io/directoryinfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConnectLibrary/Service/LecturersService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/Source/02558.00/Source/ndp/clr/src/BCL/system/io/fileinfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConnectLibrary/SQLRepository/GradeRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConnectLibrary/SQLRepository/LectionRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConnectLibrary/SQLRepository/LecturerRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConnectLibrary/SQLRepository/GroupRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConnectLibrary/SQLRepository/StudentRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConnectLibrary/SQLRepository/SubjectRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConnectLibrary/SQLRepository/Interfaces/ILecturerRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConnectLibrary/SQLRepository/Interfaces/IPersonRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConnectLibrary/SQLRepository/Interfaces/IGradeRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConnectLibrary/SQLRepository/Interfaces/ISubjectRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConnectLibrary/SQLRepository/Interfaces/IGroupRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConnectLibrary/SQLRepository/Interfaces/IRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConnectLibrary/SQLRepository/Interfaces/IStudentRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConnectLibrary/SQLRepository/Prototypes/GeneralRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConnectLibrary/SQLRepository/Prototypes/PersonRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HelperLibrary/Tools.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HelperLibrary/packages.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2F850C98-7E18-41E5-A597-3C7D24BA8722/9c/3b233762/Int32.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConnectLibrary/Logger/Log4NetLogger.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/HelperLibrary/CustomExceptions/ccE.cs" />
+        <option value="$PROJECT_DIR$/SQLDBConnectLibrary/Service/GradesService.cs" />
+        <option value="$PROJECT_DIR$/SQLDBConnectLibrary/Service/StudentsService.cs" />
+        <option value="$PROJECT_DIR$/ConnectLibrary/DBConnection.cs" />
+        <option value="$PROJECT_DIR$/HelperLibrary/CustomExceptions/InvalidNameException.cs" />
+        <option value="$PROJECT_DIR$/HelperLibrary/CustomExceptions/InvalidGroupNumber.cs" />
+        <option value="$PROJECT_DIR$/HelperLibrary/Models/GroupModel.cs" />
+        <option value="$PROJECT_DIR$/HelperLibrary/CustomExceptions/IbnvalidGradeException.cs" />
+        <option value="$PROJECT_DIR$/HelperLibrary/CustomExceptions/InvalidMailExeption.cs" />
+        <option value="$PROJECT_DIR$/HelperLibrary/CustomExceptions/InvalidGradeException.cs" />
+        <option value="$PROJECT_DIR$/HelperLibrary/Models/LecturerModel.cs" />
+        <option value="$PROJECT_DIR$/ConnectionLibrary.Tests/Tests.cs" />
+        <option value="$PROJECT_DIR$/HelperLibrary/CustomExceptions/InvalidLecturerNameException.cs" />
+        <option value="$PROJECT_DIR$/HelperLibrary/CustomExceptions/InvalidSubjectNameException.cs" />
+        <option value="$PROJECT_DIR$/HelperLibrary/Models/CommonModel.cs" />
+        <option value="$PROJECT_DIR$/ConnectLibrary/SQLRepository/Interfaces/IGradeRepository.cs" />
+        <option value="$PROJECT_DIR$/ConnectLibrary/SQLRepository/Interfaces/ICommonRepository.cs" />
+        <option value="$PROJECT_DIR$/ConnectLibrary/Service/GropusService.cs" />
+        <option value="$PROJECT_DIR$/ConnectLibrary/Service/LectionsService.cs" />
+        <option value="$PROJECT_DIR$/ConnectLibrary/Service/LecturersService.cs" />
+        <option value="$PROJECT_DIR$/ConnectLibrary/Service/SubjectsService.cs" />
+        <option value="$PROJECT_DIR$/ConnectionLibrary.Tests/Properties/d.cs" />
+        <option value="$PROJECT_DIR$/ConnectLibrary/Service/StudentsService.cs" />
+        <option value="$PROJECT_DIR$/ConnectLibrary/Service/GradesService.cs" />
+        <option value="$PROJECT_DIR$/ConnectLibrary/SQLRepository/Interfaces/ILectionsRepository.cs" />
+        <option value="$PROJECT_DIR$/ConnectLibrary/SQLRepository/Interfaces/ISubjectRepository.cs" />
+        <option value="$PROJECT_DIR$/ConnectionLibrary.Tests/PersonTests.cs" />
+        <option value="$PROJECT_DIR$/HelperLibrary/CustomExceptions/InvalidPhoneException.cs" />
+        <option value="$PROJECT_DIR$/WebLectionAPI/Program.cs" />
+        <option value="$PROJECT_DIR$/ConnectionLibrary.Tests/CommonServiceTests.cs" />
+        <option value="$PROJECT_DIR$/ConnectionLibrary.Tests/GroupServiceTests.cs" />
+        <option value="$PROJECT_DIR$/ConnectionLibrary.Tests/LectionServiceTests.cs" />
+        <option value="$PROJECT_DIR$/ConnectionLibrary.Tests/LecturerServiceTests.cs" />
+        <option value="$PROJECT_DIR$/ConnectionLibrary.Tests/StudentServiceTests.cs" />
+        <option value="$PROJECT_DIR$/ConnectionLibrary.Tests/SubjectServiceTests.cs" />
+        <option value="$PROJECT_DIR$/ConnectLibrary/SQLRepository/CommonRepository.cs" />
+        <option value="$PROJECT_DIR$/ConnectLibrary/SQLRepository/GradeRepository.cs" />
+        <option value="$PROJECT_DIR$/ConnectLibrary/SQLRepository/GroupRepository.cs" />
+        <option value="$PROJECT_DIR$/ConnectLibrary/SQLRepository/LectionRepository.cs" />
+        <option value="$PROJECT_DIR$/ConnectLibrary/SQLRepository/LecturerRepository.cs" />
+        <option value="$PROJECT_DIR$/ConnectLibrary/SQLRepository/StudentRepository.cs" />
+        <option value="$PROJECT_DIR$/ConnectLibrary/SQLRepository/SubjectRepository.cs" />
+        <option value="$PROJECT_DIR$/ConnectLibrary/SQLRepository/Prototypes/GeneralRepository.cs" />
+        <option value="$PROJECT_DIR$/ConnectLibrary/SQLRepository/Prototypes/PersonRepository.cs" />
+        <option value="$PROJECT_DIR$/ConnectLibrary/Service/CommonService.cs" />
+        <option value="$PROJECT_DIR$/HelperLibrary/Tools.cs" />
+        <option value="$PROJECT_DIR$/HelperLibrary/Models/StudentEventArgs.cs" />
+        <option value="$PROJECT_DIR$/ConnectLibrary/ValidationCheckClass.cs" />
+        <option value="$PROJECT_DIR$/ConnectLibrary/Notification.cs" />
+        <option value="$PROJECT_DIR$/ConnectLibrary/LibrarySettings.cs" />
+        <option value="$PROJECT_DIR$/ConnectionLibrary.Tests/GradeServiceTests.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/.idea.HW10/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/.idea.HW10/.idea/indexLayout.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="960" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <autoscrollToSource FileSystemExplorer="true" />
+      <autoscrollFromSource FileSystemExplorer="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="HW10" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="HW10" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="RiderDotCoverPageId" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Launch Settings Profile.WebLectionAPI">
+    <configuration name="TestApp" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/TestApp/bin/Debug/TestApp.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestApp/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/TestApp/TestApp.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.6.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebLectionAPI" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/WebLectionAPI/WebLectionAPI.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
+      <option name="LAUNCH_PROFILE_NAME" value="WebLectionAPI" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebLectionAPI: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/WebLectionAPI/WebLectionAPI.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
+      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Project.TestApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2e5b06d-162b-4ef4-8967-c5f7f3a74039" name="Default Changelist" comment="" />
+      <created>1559514293855</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559514293855</updated>
+      <workItem from="1559514317173" duration="1280000" />
+      <workItem from="1559541322504" duration="8414000" />
+      <workItem from="1559678011055" duration="2689000" />
+      <workItem from="1559751319868" duration="10761000" />
+      <workItem from="1559840887124" duration="2112000" />
+      <workItem from="1559844758411" duration="2323000" />
+      <workItem from="1559892819659" duration="50000" />
+      <workItem from="1559893758685" duration="7010000" />
+      <workItem from="1559917636977" duration="4669000" />
+      <workItem from="1559977742612" duration="30314000" />
+      <workItem from="1560067680288" duration="2203000" />
+      <workItem from="1560073473040" duration="6044000" />
+      <workItem from="1560082158262" duration="39754000" />
+      <workItem from="1560145470651" duration="11081000" />
+      <workItem from="1560157321157" duration="10143000" />
+      <workItem from="1560168250523" duration="789000" />
+      <workItem from="1560191064046" duration="1630000" />
+      <workItem from="1560262972327" duration="8975000" />
+      <workItem from="1560334457139" duration="72187000" />
+      <workItem from="1560421372265" duration="171000" />
+      <workItem from="1560518813775" duration="731000" />
+      <workItem from="1561057668476" duration="1640000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="224970000" />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4967742" visible="true" weight="0.17217484" />
+      <window_info id="Structure" order="1" sideWeight="0.5032258" side_tool="true" weight="0.1924307" />
+      <window_info id="Favorites" order="2" sideWeight="0.5032258" side_tool="true" weight="0.1924307" />
+      <window_info anchor="bottom" id="NuGet" order="0" sideWeight="0.4946695" weight="0.32900432" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="3" sideWeight="0.49626866" weight="0.32900432" />
+      <window_info anchor="bottom" id="Unit Tests" order="4" sideWeight="0.47974414" weight="0.32142857" />
+      <window_info anchor="bottom" id="REST Client" order="5" sideWeight="0.49946696" weight="0.32900432" />
+      <window_info anchor="bottom" id="Terminal" order="6" sideWeight="0.49840087" weight="0.32900432" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5010661" side_tool="true" visible="true" weight="0.32900432" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" sideWeight="0.49840087" weight="0.32900432" />
+      <window_info anchor="bottom" id="Message" order="9" />
+      <window_info anchor="bottom" id="Find" order="10" sideWeight="0.49946696" weight="0.32900432" />
+      <window_info anchor="bottom" id="Build" order="11" sideWeight="0.33102345" weight="0.33225107" />
+      <window_info anchor="bottom" id="Run" order="12" sideWeight="0.40245202" weight="0.32683983" />
+      <window_info anchor="bottom" id="Debug" order="13" sideWeight="0.8891258" weight="0.39935064" />
+      <window_info anchor="bottom" id="Cvs" order="14" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="15" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="16" sideWeight="0.4989339" visible="true" weight="0.32900432" />
+      <window_info anchor="bottom" id="Inspection Results" order="17" weight="0.32900432" />
+      <window_info anchor="bottom" id="Change Signature" order="18" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" weight="0.32995737" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32995737" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" weight="0.3283582" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnitTestsCoverage.Settings">
+    <option name="coveragePercentColumnWidth" value="150" />
+    <option name="sortOrder" value="DESCENDING" />
+    <option name="sortedColumn" value="1" />
+    <option name="symbolColumnWidth" value="307" />
+    <coverage-tree-state>
+      <expand>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="1" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="1" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="359" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="1" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="359" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="13" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="1" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="4" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="1" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="4" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="409" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="1" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="358" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="1" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="358" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="168" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="1" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="358" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="365" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+      </expand>
+      <select />
+    </coverage-tree-state>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ConnectLibrary/SQLRepository/Interfaces/ILecturerRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+          <folding>
+            <marker date="1560346840467" expanded="true" signature="78:309" ph="{...}" />
+            <marker date="1560346840467" expanded="true" signature="184:307" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConnectLibrary/SQLRepository/Interfaces/ILectionsRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          <folding>
+            <marker date="1560404293010" expanded="false" signature="6:143" ph="..." />
+            <marker date="1560404293010" expanded="true" signature="194:381" ph="{...}" />
+            <marker date="1560404293010" expanded="true" signature="265:379" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConnectLibrary/SQLRepository/Interfaces/ISubjectRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          <folding>
+            <marker date="1560404903609" expanded="false" signature="6:143" ph="..." />
+            <marker date="1560404903609" expanded="true" signature="194:382" ph="{...}" />
+            <marker date="1560404903609" expanded="true" signature="264:380" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelperLibrary/CustomExceptions/InvalidSubjectNameException.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <marker date="1560358090331" expanded="true" signature="55:312" ph="{...}" />
+            <marker date="1560358090331" expanded="true" signature="114:310" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelperLibrary/CustomExceptions/InvalidPhoneException.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+          <folding>
+            <marker date="1560408942333" expanded="true" signature="55:358" ph="{...}" />
+            <marker date="1560408942333" expanded="true" signature="108:356" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelperLibrary/CustomExceptions/InvalidNameException.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <marker date="1560350860120" expanded="true" signature="55:283" ph="{...}" />
+            <marker date="1560350860120" expanded="true" signature="107:281" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelperLibrary/Models/GroupModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding>
+            <marker date="1560373676667" expanded="false" signature="6:154" ph="..." />
+            <marker date="1560373676667" expanded="true" signature="186:458" ph="{...}" />
+            <marker date="1560373676667" expanded="true" signature="224:456" ph="{...}" />
+            <marker date="1560373676667" expanded="true" signature="276:335" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConnectionLibrary.Tests/Tests.cs" />
+    <entry file="file://$PROJECT_DIR$/HelperLibrary/Models/LectionModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding>
+            <marker date="1560373676712" expanded="false" signature="6:154" ph="..." />
+            <marker date="1560373676712" expanded="true" signature="186:552" ph="{...}" />
+            <marker date="1560373676712" expanded="true" signature="227:550" ph="{...}" />
+            <marker date="1560373676712" expanded="true" signature="292:386" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConnectionLibrary.Tests/GroupServiceTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <marker date="1560417099880" expanded="true" signature="6:161" ph="..." />
+            <marker date="1560417099880" expanded="true" signature="196:3849" ph="{...}" />
+            <marker date="1560417099880" expanded="true" signature="251:3847" ph="{...}" />
+            <marker date="1560417099880" expanded="true" signature="471:961" ph="{...}" />
+            <marker date="1560417099880" expanded="true" signature="1032:1731" ph="{...}" />
+            <marker date="1560417099880" expanded="true" signature="1800:2476" ph="{...}" />
+            <marker date="1560417099880" expanded="true" signature="2159:2232" ph="{...}" />
+            <marker date="1560417099880" expanded="true" signature="2542:3223" ph="{...}" />
+            <marker date="1560417099880" expanded="true" signature="2912:2985" ph="{...}" />
+            <marker date="1560417099880" expanded="true" signature="3312:3841" ph="{...}" />
+            <marker date="1560417099880" expanded="true" signature="3396:3600" ph="{...}" />
+            <marker date="1560417099880" expanded="true" signature="3632:3702" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConnectionLibrary.Tests/LectionServiceTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="18" lean-forward="true" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+          <folding>
+            <marker date="1560417103906" expanded="true" signature="6:161" ph="..." />
+            <marker date="1560417103906" expanded="true" signature="196:3972" ph="{...}" />
+            <marker date="1560417103906" expanded="true" signature="253:3970" ph="{...}" />
+            <marker date="1560417103906" expanded="true" signature="488:993" ph="{...}" />
+            <marker date="1560417103906" expanded="true" signature="1066:1782" ph="{...}" />
+            <marker date="1560417103906" expanded="true" signature="1854:2581" ph="{...}" />
+            <marker date="1560417103906" expanded="true" signature="2230:2333" ph="{...}" />
+            <marker date="1560417103906" expanded="true" signature="2649:3381" ph="{...}" />
+            <marker date="1560417103906" expanded="true" signature="3036:3139" ph="{...}" />
+            <marker date="1560417103906" expanded="true" signature="3478:3964" ph="{...}" />
+            <marker date="1560417103906" expanded="true" signature="3566:3818" ph="{...}" />
+            <marker date="1560417103906" expanded="true" signature="3852:3926" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConnectionLibrary.Tests/LecturerServiceTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1560417107766" expanded="true" signature="6:229" ph="..." />
+            <marker date="1560417107766" expanded="true" signature="264:6171" ph="{...}" />
+            <marker date="1560417107766" expanded="true" signature="322:6169" ph="{...}" />
+            <marker date="1560417107766" expanded="true" signature="560:1073" ph="{...}" />
+            <marker date="1560417107766" expanded="true" signature="1147:1875" ph="{...}" />
+            <marker date="1560417107766" expanded="true" signature="1948:2778" ph="{...}" />
+            <marker date="1560417107766" expanded="true" signature="2331:2528" ph="{...}" />
+            <marker date="1560417107766" expanded="true" signature="2848:3684" ph="{...}" />
+            <marker date="1560417107766" expanded="true" signature="3243:3440" ph="{...}" />
+            <marker date="1560417107766" expanded="true" signature="3749:4213" ph="{...}" />
+            <marker date="1560417107766" expanded="true" signature="3905:4102" ph="{...}" />
+            <marker date="1560417107766" expanded="true" signature="4277:4749" ph="{...}" />
+            <marker date="1560417107766" expanded="true" signature="4433:4639" ph="{...}" />
+            <marker date="1560417107766" expanded="true" signature="4813:5274" ph="{...}" />
+            <marker date="1560417107766" expanded="true" signature="4969:5165" ph="{...}" />
+            <marker date="1560417107766" expanded="true" signature="5375:6163" ph="{...}" />
+            <marker date="1560417107766" expanded="true" signature="5465:5916" ph="{...}" />
+            <marker date="1560417107766" expanded="true" signature="5950:6024" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConnectionLibrary.Tests/SubjectServiceTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <marker date="1560417322204" expanded="true" signature="6:161" ph="..." />
+            <marker date="1560417322204" expanded="true" signature="196:3855" ph="{...}" />
+            <marker date="1560417322204" expanded="true" signature="253:3853" ph="{...}" />
+            <marker date="1560417322204" expanded="true" signature="485:988" ph="{...}" />
+            <marker date="1560417322204" expanded="true" signature="1061:1767" ph="{...}" />
+            <marker date="1560417322204" expanded="true" signature="1838:2534" ph="{...}" />
+            <marker date="1560417322204" expanded="true" signature="2213:2286" ph="{...}" />
+            <marker date="1560417322204" expanded="true" signature="2606:3308" ph="{...}" />
+            <marker date="1560417322204" expanded="true" signature="2993:3066" ph="{...}" />
+            <marker date="1560417322204" expanded="true" signature="3406:3847" ph="{...}" />
+            <marker date="1560417322204" expanded="true" signature="3494:3701" ph="{...}" />
+            <marker date="1560417322204" expanded="true" signature="3735:3809" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConnectLibrary/SQLRepository/SubjectRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="56" column="77" selection-start-line="56" selection-start-column="77" selection-end-line="56" selection-end-column="77" />
+          <folding>
+            <marker date="1560417788941" expanded="true" signature="6:407" ph="..." />
+            <marker date="1560417788941" expanded="true" signature="447:2325" ph="{...}" />
+            <marker date="1560417788941" expanded="true" signature="538:2323" ph="{...}" />
+            <marker date="1560417788941" expanded="true" signature="755:957" ph="{...}" />
+            <marker date="1560417788941" expanded="true" signature="1018:1624" ph="{...}" />
+            <marker date="1560417788941" expanded="true" signature="1061:1233" ph="{...}" />
+            <marker date="1560417788941" expanded="true" signature="1318:1614" ph="{...}" />
+            <marker date="1560417788941" expanded="true" signature="1689:2317" ph="{...}" />
+            <marker date="1560417788941" expanded="true" signature="1732:1904" ph="{...}" />
+            <marker date="1560417788941" expanded="true" signature="1989:2307" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConnectLibrary/SQLRepository/StudentRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="48" column="77" selection-start-line="48" selection-start-column="77" selection-end-line="48" selection-end-column="77" />
+          <folding>
+            <marker date="1560417986868" expanded="true" signature="6:413" ph="..." />
+            <marker date="1560417986868" expanded="true" signature="453:2436" ph="{...}" />
+            <marker date="1560417986868" expanded="true" signature="543:2434" ph="{...}" />
+            <marker date="1560417986868" expanded="true" signature="744:1558" ph="{...}" />
+            <marker date="1560417986868" expanded="true" signature="787:959" ph="{...}" />
+            <marker date="1560417986868" expanded="true" signature="1044:1548" ph="{...}" />
+            <marker date="1560417986868" expanded="true" signature="1631:2428" ph="{...}" />
+            <marker date="1560417986868" expanded="true" signature="1674:1846" ph="{...}" />
+            <marker date="1560417986868" expanded="true" signature="1931:2418" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConnectLibrary/SQLRepository/LecturerRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="46" column="77" selection-start-line="46" selection-start-column="77" selection-end-line="46" selection-end-column="77" />
+          <folding>
+            <marker date="1560417986907" expanded="true" signature="6:384" ph="..." />
+            <marker date="1560417986907" expanded="true" signature="424:2317" ph="{...}" />
+            <marker date="1560417986907" expanded="true" signature="517:2315" ph="{...}" />
+            <marker date="1560417986907" expanded="true" signature="723:1454" ph="{...}" />
+            <marker date="1560417986907" expanded="true" signature="767:940" ph="{...}" />
+            <marker date="1560417986907" expanded="true" signature="1025:1444" ph="{...}" />
+            <marker date="1560417986907" expanded="true" signature="1531:2309" ph="{...}" />
+            <marker date="1560417986907" expanded="true" signature="1575:1748" ph="{...}" />
+            <marker date="1560417986907" expanded="true" signature="1833:2299" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConnectionLibrary.Tests/StudentServiceTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="111" selection-start-line="111" selection-end-line="111" selection-end-column="85" />
+          <folding>
+            <marker date="1560417112511" expanded="true" signature="6:229" ph="..." />
+            <marker date="1560417112511" expanded="true" signature="264:6329" ph="{...}" />
+            <marker date="1560417112511" expanded="true" signature="321:6327" ph="{...}" />
+            <marker date="1560417112511" expanded="true" signature="553:1059" ph="{...}" />
+            <marker date="1560417112511" expanded="true" signature="1132:1852" ph="{...}" />
+            <marker date="1560417112511" expanded="true" signature="1923:2777" ph="{...}" />
+            <marker date="1560417112511" expanded="true" signature="2298:2529" ph="{...}" />
+            <marker date="1560417112511" expanded="true" signature="2845:3705" ph="{...}" />
+            <marker date="1560417112511" expanded="true" signature="3232:3463" ph="{...}" />
+            <marker date="1560417112511" expanded="true" signature="3770:4263" ph="{...}" />
+            <marker date="1560417112511" expanded="true" signature="3922:4153" ph="{...}" />
+            <marker date="1560417112511" expanded="true" signature="4327:4828" ph="{...}" />
+            <marker date="1560417112511" expanded="true" signature="4479:4719" ph="{...}" />
+            <marker date="1560417112511" expanded="true" signature="4892:5383" ph="{...}" />
+            <marker date="1560417112511" expanded="true" signature="5044:5275" ph="{...}" />
+            <marker date="1560417112511" expanded="true" signature="5481:6321" ph="{...}" />
+            <marker date="1560417112511" expanded="true" signature="5569:6074" ph="{...}" />
+            <marker date="1560417112511" expanded="true" signature="6108:6182" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConnectionLibrary.Tests/CommonServiceTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-330">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <folding>
+            <marker date="1560416823373" expanded="true" signature="6:175" ph="..." />
+            <marker date="1560416823373" expanded="true" signature="210:3414" ph="{...}" />
+            <marker date="1560416823373" expanded="true" signature="266:3412" ph="{...}" />
+            <marker date="1560416823373" expanded="true" signature="494:941" ph="{...}" />
+            <marker date="1560416823373" expanded="true" signature="1026:1815" ph="{...}" />
+            <marker date="1560416823373" expanded="true" signature="1892:2817" ph="{...}" />
+            <marker date="1560416823373" expanded="true" signature="2880:3406" ph="{...}" />
+            <marker date="1560416823373" expanded="true" signature="3059:3367" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConnectLibrary/Logger/ILogging.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+          <folding>
+            <marker date="1560373676465" expanded="true" signature="31:135" ph="{...}" />
+            <marker date="1560373676465" expanded="true" signature="63:133" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConnectLibrary/Logger/LoggerOperation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          <folding>
+            <marker date="1560373676524" expanded="true" signature="31:137" ph="{...}" />
+            <marker date="1560373676524" expanded="true" signature="66:135" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConnectLibrary/Logger/Log4NetLogger.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding>
+            <marker date="1560346840294" expanded="false" signature="6:130" ph="..." />
+            <marker date="1560346840294" expanded="true" signature="163:1521" ph="{...}" />
+            <marker date="1560346840294" expanded="true" signature="207:1519" ph="{...}" />
+            <marker date="1560346840294" expanded="true" signature="244:617" ph="{...}" />
+            <marker date="1560346840294" expanded="true" signature="805:1513" ph="{...}" />
+            <marker date="1560346840294" expanded="true" signature="848:919" ph="{...}" />
+            <marker date="1560346840294" expanded="true" signature="1019:1503" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConnectLibrary/Service/GradesService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-66">
+          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+          <folding>
+            <marker date="1560402025052" expanded="true" signature="6:321" ph="..." />
+            <marker date="1560402025052" expanded="true" signature="355:1353" ph="{...}" />
+            <marker date="1560402025052" expanded="true" signature="388:1351" ph="{...}" />
+            <marker date="1560402025052" expanded="true" signature="525:596" ph="{...}" />
+            <marker date="1560402025052" expanded="true" signature="643:826" ph="{...}" />
+            <marker date="1560402025052" expanded="true" signature="883:993" ph="{...}" />
+            <marker date="1560402025052" expanded="true" signature="1038:1103" ph="{...}" />
+            <marker date="1560402025052" expanded="true" signature="1152:1222" ph="{...}" />
+            <marker date="1560402025052" expanded="true" signature="1278:1345" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConnectLibrary/Service/GropusService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding>
+            <marker date="1560373780262" expanded="true" signature="6:271" ph="..." />
+            <marker date="1560373780262" expanded="true" signature="305:1132" ph="{...}" />
+            <marker date="1560373780262" expanded="true" signature="338:1130" ph="{...}" />
+            <marker date="1560373780262" expanded="true" signature="444:516" ph="{...}" />
+            <marker date="1560373780262" expanded="true" signature="563:637" ph="{...}" />
+            <marker date="1560373780262" expanded="true" signature="693:770" ph="{...}" />
+            <marker date="1560373780262" expanded="true" signature="815:881" ph="{...}" />
+            <marker date="1560373780262" expanded="true" signature="929:1000" ph="{...}" />
+            <marker date="1560373780262" expanded="true" signature="1056:1124" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConnectLibrary/Service/LectionsService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding>
+            <marker date="1560373780223" expanded="true" signature="6:271" ph="..." />
+            <marker date="1560373780223" expanded="true" signature="305:1175" ph="{...}" />
+            <marker date="1560373780223" expanded="true" signature="340:1173" ph="{...}" />
+            <marker date="1560373780223" expanded="true" signature="452:528" ph="{...}" />
+            <marker date="1560373780223" expanded="true" signature="579:656" ph="{...}" />
+            <marker date="1560373780223" expanded="true" signature="719:799" ph="{...}" />
+            <marker date="1560373780223" expanded="true" signature="846:913" ph="{...}" />
+            <marker date="1560373780223" expanded="true" signature="966:1038" ph="{...}" />
+            <marker date="1560373780223" expanded="true" signature="1098:1167" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConnectLibrary/Service/LecturersService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+          <folding>
+            <marker date="1560373779991" expanded="true" signature="6:360" ph="..." />
+            <marker date="1560373779991" expanded="true" signature="394:1611" ph="{...}" />
+            <marker date="1560373779991" expanded="true" signature="430:1609" ph="{...}" />
+            <marker date="1560373779991" expanded="true" signature="544:621" ph="{...}" />
+            <marker date="1560373779991" expanded="true" signature="711:831" ph="{...}" />
+            <marker date="1560373779991" expanded="true" signature="887:1009" ph="{...}" />
+            <marker date="1560373779991" expanded="true" signature="1059:1135" ph="{...}" />
+            <marker date="1560373779991" expanded="true" signature="1192:1273" ph="{...}" />
+            <marker date="1560373779991" expanded="true" signature="1335:1405" ph="{...}" />
+            <marker date="1560373779991" expanded="true" signature="1478:1603" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConnectLibrary/Service/SubjectsService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-60">
+          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+          <folding>
+            <marker date="1560373924689" expanded="true" signature="6:271" ph="..." />
+            <marker date="1560373924689" expanded="true" signature="305:1185" ph="{...}" />
+            <marker date="1560373924689" expanded="true" signature="340:1183" ph="{...}" />
+            <marker date="1560373924689" expanded="true" signature="451:526" ph="{...}" />
+            <marker date="1560373924689" expanded="true" signature="580:659" ph="{...}" />
+            <marker date="1560373924689" expanded="true" signature="725:807" ph="{...}" />
+            <marker date="1560373924689" expanded="true" signature="855:922" ph="{...}" />
+            <marker date="1560373924689" expanded="true" signature="975:1047" ph="{...}" />
+            <marker date="1560373924689" expanded="true" signature="1107:1176" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConnectLibrary/SQLRepository/Prototypes/GeneralRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="50" column="12" selection-start-line="50" selection-start-column="12" selection-end-line="50" selection-end-column="12" />
+          <folding>
+            <marker date="1560417847088" expanded="true" signature="6:458" ph="..." />
+            <marker date="1560417847088" expanded="true" signature="509:2174" ph="{...}" />
+            <marker date="1560417847088" expanded="true" signature="598:2172" ph="{...}" />
+            <marker date="1560417847088" expanded="true" signature="700:767" ph="{...}" />
+            <marker date="1560417847088" expanded="true" signature="808:1233" ph="{...}" />
+            <marker date="1560417847088" expanded="true" signature="843:1022" ph="{...}" />
+            <marker date="1560417847088" expanded="true" signature="1085:1223" ph="{...}" />
+            <marker date="1560417847088" expanded="true" signature="1268:1859" ph="{...}" />
+            <marker date="1560417847088" expanded="true" signature="1304:1483" ph="{...}" />
+            <marker date="1560417847088" expanded="true" signature="1593:1823" ph="{...}" />
+            <marker date="1560417847088" expanded="true" signature="1900:2166" ph="{...}" />
+            <marker date="1560417847088" expanded="true" signature="2015:2129" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConnectLibrary/SQLRepository/Prototypes/PersonRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="872">
+          <caret line="63" column="77" selection-start-line="63" selection-start-column="77" selection-end-line="63" selection-end-column="77" />
+          <folding>
+            <marker date="1560417986785" expanded="true" signature="6:420" ph="..." />
+            <marker date="1560417986785" expanded="true" signature="471:2900" ph="{...}" />
+            <marker date="1560417986785" expanded="true" signature="579:2898" ph="{...}" />
+            <marker date="1560417986785" expanded="true" signature="761:2035" ph="{...}" />
+            <marker date="1560417986785" expanded="true" signature="805:978" ph="{...}" />
+            <marker date="1560417986785" expanded="true" signature="1014:1188" ph="{...}" />
+            <marker date="1560417986785" expanded="true" signature="1289:2025" ph="{...}" />
+            <marker date="1560417986785" expanded="true" signature="2145:2892" ph="{...}" />
+            <marker date="1560417986785" expanded="true" signature="2189:2362" ph="{...}" />
+            <marker date="1560417986785" expanded="true" signature="2398:2572" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConnectLibrary/SQLRepository/GradeRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="57" column="9" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
+          <folding>
+            <marker date="1560417986833" expanded="true" signature="6:468" ph="..." />
+            <marker date="1560417986833" expanded="true" signature="508:2890" ph="{...}" />
+            <marker date="1560417986833" expanded="true" signature="593:2887" ph="{...}" />
+            <marker date="1560417986833" expanded="true" signature="862:1202" ph="{...}" />
+            <marker date="1560417986833" expanded="true" signature="1249:1981" ph="{...}" />
+            <marker date="1560417986833" expanded="true" signature="1290:1460" ph="{...}" />
+            <marker date="1560417986833" expanded="true" signature="1545:1971" ph="{...}" />
+            <marker date="1560417986833" expanded="true" signature="2037:2749" ph="{...}" />
+            <marker date="1560417986833" expanded="true" signature="2078:2248" ph="{...}" />
+            <marker date="1560417986833" expanded="true" signature="2333:2739" ph="{...}" />
+            <marker date="1560417986833" expanded="true" signature="2817:2881" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConnectLibrary/SQLRepository/GroupRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="59" column="77" selection-start-line="59" selection-start-column="77" selection-end-line="59" selection-end-column="77" />
+          <folding>
+            <marker date="1560417986756" expanded="true" signature="6:344" ph="..." />
+            <marker date="1560417986756" expanded="true" signature="384:2454" ph="{...}" />
+            <marker date="1560417986756" expanded="true" signature="469:2452" ph="{...}" />
+            <marker date="1560417986756" expanded="true" signature="676:1089" ph="{...}" />
+            <marker date="1560417986756" expanded="true" signature="717:887" ph="{...}" />
+            <marker date="1560417986756" expanded="true" signature="1144:1761" ph="{...}" />
+            <marker date="1560417986756" expanded="true" signature="1185:1355" ph="{...}" />
+            <marker date="1560417986756" expanded="true" signature="1440:1751" ph="{...}" />
+            <marker date="1560417986756" expanded="true" signature="1818:2446" ph="{...}" />
+            <marker date="1560417986756" expanded="true" signature="1860:2031" ph="{...}" />
+            <marker date="1560417986756" expanded="true" signature="2116:2436" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConnectLibrary/SQLRepository/LectionRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="61" column="77" selection-start-line="61" selection-start-column="77" selection-end-line="61" selection-end-column="77" />
+          <folding>
+            <marker date="1560417729699" expanded="true" signature="6:384" ph="..." />
+            <marker date="1560417729699" expanded="true" signature="424:2661" ph="{...}" />
+            <marker date="1560417729699" expanded="true" signature="516:2659" ph="{...}" />
+            <marker date="1560417729699" expanded="true" signature="733:1206" ph="{...}" />
+            <marker date="1560417729699" expanded="true" signature="776:948" ph="{...}" />
+            <marker date="1560417729699" expanded="true" signature="1267:1918" ph="{...}" />
+            <marker date="1560417729699" expanded="true" signature="1310:1482" ph="{...}" />
+            <marker date="1560417729699" expanded="true" signature="1567:1908" ph="{...}" />
+            <marker date="1560417729699" expanded="true" signature="1991:2653" ph="{...}" />
+            <marker date="1560417729699" expanded="true" signature="2034:2206" ph="{...}" />
+            <marker date="1560417729699" expanded="true" signature="2291:2643" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelperLibrary/Tools.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <marker date="1560420857772" expanded="false" signature="6:292" ph="..." />
+            <marker date="1560420857772" expanded="true" signature="318:736" ph="{...}" />
+            <marker date="1560420857772" expanded="true" signature="350:734" ph="{...}" />
+            <marker date="1560420857772" expanded="true" signature="431:728" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelperLibrary/Models/StudentEventArgs.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+          <folding>
+            <marker date="1560420857731" expanded="true" signature="6:41" ph="..." />
+            <marker date="1560420857731" expanded="true" signature="73:169" ph="{...}" />
+            <marker date="1560420857731" expanded="true" signature="122:167" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebLectionAPI/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <marker date="1560416566736" expanded="false" signature="6:255" ph="..." />
+            <marker date="1560416566736" expanded="true" signature="280:607" ph="{...}" />
+            <marker date="1560416566736" expanded="true" signature="307:605" ph="{...}" />
+            <marker date="1560416566736" expanded="true" signature="360:434" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebLectionAPI/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+          <folding>
+            <marker date="1560346841602" expanded="false" signature="6:461" ph="..." />
+            <marker date="1560346841602" expanded="true" signature="486:2107" ph="{...}" />
+            <marker date="1560346841602" expanded="true" signature="513:2105" ph="{...}" />
+            <marker date="1560346841602" expanded="true" signature="572:691" ph="{...}" />
+            <marker date="1560346841602" expanded="true" signature="914:1267" ph="{...}" />
+            <marker date="1560346841602" expanded="true" signature="1151:1255" ph="{...}" />
+            <marker date="1560346841602" expanded="true" signature="1455:2099" ph="{...}" />
+            <marker date="1560346841602" expanded="true" signature="1533:1610" ph="{...}" />
+            <marker date="1560346841602" expanded="true" signature="1627:1830" ph="{...}" />
+            <marker date="1560346841602" expanded="true" signature="1878:2021" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HW10.sln.DotSettings.user">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/.idea.HW10/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3960" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConnectLibrary/Service/CommonService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1470">
+          <caret line="98" column="31" selection-start-line="98" selection-start-column="31" selection-end-line="98" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#418#0" expanded="true" />
+            <marker date="1561062763706" expanded="true" signature="418:4952" ph="{...}" />
+            <marker date="1561062763706" expanded="true" signature="451:4950" ph="{...}" />
+            <marker date="1561062763706" expanded="true" signature="551:624" ph="{...}" />
+            <marker date="1561062763706" expanded="true" signature="712:936" ph="{...}" />
+            <marker date="1561062763706" expanded="true" signature="1058:1661" ph="{...}" />
+            <marker date="1561062763706" expanded="true" signature="1101:1275" ph="{...}" />
+            <marker date="1561062763706" expanded="true" signature="1310:1485" ph="{...}" />
+            <marker date="1561062763706" expanded="true" signature="1764:2145" ph="{...}" />
+            <marker date="1561062763706" expanded="true" signature="1804:1975" ph="{...}" />
+            <marker date="1561062763706" expanded="true" signature="2284:2865" ph="{...}" />
+            <marker date="1561062763706" expanded="true" signature="2324:2495" ph="{...}" />
+            <marker date="1561062763706" expanded="true" signature="2632:2810" ph="{...}" />
+            <marker date="1561062763706" expanded="true" signature="3032:3612" ph="{...}" />
+            <marker date="1561062763706" expanded="true" signature="3360:3557" ph="{...}" />
+            <marker date="1561062763706" expanded="true" signature="3734:4944" ph="{...}" />
+            <marker date="1561062763706" expanded="true" signature="3803:3976" ph="{...}" />
+            <marker date="1561062763706" expanded="true" signature="4011:4186" ph="{...}" />
+            <marker date="1561062763706" expanded="true" signature="4217:4402" ph="{...}" />
+            <marker date="1561062763706" expanded="true" signature="4419:4477" ph="{...}" />
+            <marker date="1561062763706" expanded="true" signature="4534:4614" ph="{...}" />
+            <marker date="1561062763706" expanded="true" signature="4774:4934" ph="{...}" />
+            <marker date="1561062763706" expanded="true" signature="4828:4920" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConnectLibrary/SQLRepository/CommonRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1165">
+          <caret line="82" column="42" selection-start-line="82" selection-start-column="42" selection-end-line="82" selection-end-column="42" />
+          <folding>
+            <marker date="1560417986719" expanded="true" signature="6:436" ph="..." />
+            <marker date="1560417986719" expanded="true" signature="476:5064" ph="{...}" />
+            <marker date="1560417986719" expanded="true" signature="532:5062" ph="{...}" />
+            <marker date="1560417986719" expanded="true" signature="667:1297" ph="{...}" />
+            <marker date="1560417986719" expanded="true" signature="722:1287" ph="{...}" />
+            <marker date="1560417986719" expanded="true" signature="1379:1755" ph="{...}" />
+            <marker date="1560417986719" expanded="true" signature="1419:1588" ph="{...}" />
+            <marker date="1560417986719" expanded="true" signature="1859:2540" ph="{...}" />
+            <marker date="1560417986719" expanded="true" signature="1902:2074" ph="{...}" />
+            <marker date="1560417986719" expanded="true" signature="2109:2282" ph="{...}" />
+            <marker date="1560417986719" expanded="true" signature="2624:3612" ph="{...}" />
+            <marker date="1560417986719" expanded="true" signature="2664:2833" ph="{...}" />
+            <marker date="1560417986719" expanded="true" signature="3413:3573" ph="{...}" />
+            <marker date="1560417986719" expanded="true" signature="3716:5056" ph="{...}" />
+            <marker date="1560417986719" expanded="true" signature="3759:3931" ph="{...}" />
+            <marker date="1560417986719" expanded="true" signature="3966:4139" ph="{...}" />
+            <marker date="1560417986719" expanded="true" signature="4849:5017" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConnectLibrary/Enums.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding>
+            <marker date="1560346841401" expanded="false" signature="6:115" ph="..." />
+            <marker date="1560346841401" expanded="true" signature="141:427" ph="{...}" />
+            <marker date="1560346841401" expanded="true" signature="166:282" ph="{...}" />
+            <marker date="1560346841401" expanded="true" signature="311:359" ph="{...}" />
+            <marker date="1560346841401" expanded="true" signature="387:424" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConnectLibrary/DBConnection.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-703">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding>
+            <marker date="1560348510866" expanded="false" signature="6:160" ph="..." />
+            <marker date="1560348510866" expanded="true" signature="186:3689" ph="{...}" />
+            <marker date="1560348510866" expanded="true" signature="216:3687" ph="{...}" />
+            <marker date="1560348510866" expanded="true" signature="282:2152" ph="{...}" />
+            <marker date="1560348510866" expanded="true" signature="358:2112" ph="{...}" />
+            <marker date="1560348510866" expanded="true" signature="2200:2618" ph="{...}" />
+            <marker date="1560348510866" expanded="true" signature="2281:2608" ph="{...}" />
+            <marker date="1560348510866" expanded="true" signature="2384:2594" ph="{...}" />
+            <marker date="1560348510866" expanded="true" signature="2502:2576" ph="{...}" />
+            <marker date="1560348510866" expanded="true" signature="2663:3679" ph="{...}" />
+            <marker date="1560348510866" expanded="true" signature="3009:3669" ph="{...}" />
+            <marker date="1560348510866" expanded="true" signature="3128:3655" ph="{...}" />
+            <marker date="1560348510866" expanded="true" signature="3354:3458" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConnectLibrary/Service/StudentsService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+          <folding>
+            <marker date="1560394250743" expanded="true" signature="6:315" ph="..." />
+            <marker date="1560394250743" expanded="true" signature="349:1536" ph="{...}" />
+            <marker date="1560394250743" expanded="true" signature="384:1534" ph="{...}" />
+            <marker date="1560394250743" expanded="true" signature="495:570" ph="{...}" />
+            <marker date="1560394250743" expanded="true" signature="658:776" ph="{...}" />
+            <marker date="1560394250743" expanded="true" signature="829:946" ph="{...}" />
+            <marker date="1560394250743" expanded="true" signature="997:1071" ph="{...}" />
+            <marker date="1560394250743" expanded="true" signature="1131:1210" ph="{...}" />
+            <marker date="1560394250743" expanded="true" signature="1270:1339" ph="{...}" />
+            <marker date="1560394250743" expanded="true" signature="1408:1528" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConnectLibrary/ValidationCheckClass.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+          <folding>
+            <marker date="1560421014597" expanded="true" signature="6:279" ph="..." />
+            <marker date="1560421014597" expanded="true" signature="305:5166" ph="{...}" />
+            <marker date="1560421014597" expanded="true" signature="352:5164" ph="{...}" />
+            <marker date="1560421014597" expanded="true" signature="1038:1159" ph="{...}" />
+            <marker date="1560421014597" expanded="true" signature="1236:1373" ph="{...}" />
+            <marker date="1560421014597" expanded="true" signature="1441:1775" ph="{...}" />
+            <marker date="1560421014597" expanded="true" signature="1597:1765" ph="{...}" />
+            <marker date="1560421014597" expanded="true" signature="1845:2301" ph="{...}" />
+            <marker date="1560421014597" expanded="true" signature="2112:2291" ph="{...}" />
+            <marker date="1560421014597" expanded="true" signature="2369:2816" ph="{...}" />
+            <marker date="1560421014597" expanded="true" signature="2630:2806" ph="{...}" />
+            <marker date="1560421014597" expanded="true" signature="2883:3482" ph="{...}" />
+            <marker date="1560421014597" expanded="true" signature="3077:3249" ph="{...}" />
+            <marker date="1560421014597" expanded="true" signature="3301:3472" ph="{...}" />
+            <marker date="1560421014597" expanded="true" signature="3559:4158" ph="{...}" />
+            <marker date="1560421014597" expanded="true" signature="3753:3925" ph="{...}" />
+            <marker date="1560421014597" expanded="true" signature="3977:4148" ph="{...}" />
+            <marker date="1560421014597" expanded="true" signature="4216:4598" ph="{...}" />
+            <marker date="1560421014597" expanded="true" signature="4423:4588" ph="{...}" />
+            <marker date="1560421014597" expanded="true" signature="4665:5158" ph="{...}" />
+            <marker date="1560421014597" expanded="true" signature="4879:4931" ph="{...}" />
+            <marker date="1560421014597" expanded="true" signature="4979:5148" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConnectLibrary/LibrarySettings.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+          <folding>
+            <marker date="1561062635230" expanded="false" signature="6:223" ph="..." />
+            <marker date="1561062635230" expanded="true" signature="249:1245" ph="{...}" />
+            <marker date="1561062635230" expanded="true" signature="284:1243" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConnectLibrary/Notification.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+          <folding>
+            <marker date="1561062610760" expanded="true" signature="6:269" ph="..." />
+            <marker date="1561062610760" expanded="true" signature="295:1853" ph="{...}" />
+            <marker date="1561062610760" expanded="true" signature="327:1851" ph="{...}" />
+            <marker date="1561062610760" expanded="true" signature="679:1714" ph="{...}" />
+            <marker date="1561062610760" expanded="true" signature="1331:1521" ph="{...}" />
+            <marker date="1561062610760" expanded="true" signature="1562:1704" ph="{...}" />
+            <marker date="1561062610760" expanded="true" signature="1794:1845" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HW10.sln">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConnectionLibrary.Tests/ConnectionLibrary.Tests.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConnectionLibrary.Tests/GradeServiceTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-375">
+          <caret line="110" column="20" selection-start-line="110" selection-start-column="20" selection-end-line="110" selection-end-column="20" />
+          <folding>
+            <marker date="1561062813205" expanded="true" signature="6:322" ph="..." />
+            <marker date="1561062813205" expanded="true" signature="357:6831" ph="{...}" />
+            <marker date="1561062813205" expanded="true" signature="412:6829" ph="{...}" />
+            <marker date="1561062813205" expanded="true" signature="632:1116" ph="{...}" />
+            <marker date="1561062813205" expanded="true" signature="1187:1882" ph="{...}" />
+            <marker date="1561062813205" expanded="true" signature="1951:2718" ph="{...}" />
+            <marker date="1561062813205" expanded="true" signature="2310:2474" ph="{...}" />
+            <marker date="1561062813205" expanded="true" signature="2784:3556" ph="{...}" />
+            <marker date="1561062813205" expanded="true" signature="3154:3318" ph="{...}" />
+            <marker date="1561062813205" expanded="true" signature="3639:3801" ph="{...}" />
+            <marker date="1561062813205" expanded="true" signature="3846:4591" ph="{...}" />
+            <marker date="1561062813205" expanded="true" signature="4368:4478" ph="{...}" />
+            <marker date="1561062813205" expanded="true" signature="4519:4581" ph="{...}" />
+            <marker date="1561062813205" expanded="true" signature="4657:5610" ph="{...}" />
+            <marker date="1561062813205" expanded="true" signature="4752:5570" ph="{...}" />
+            <marker date="1561062813205" expanded="true" signature="4804:5020" ph="{...}" />
+            <marker date="1561062813205" expanded="true" signature="5072:5288" ph="{...}" />
+            <marker date="1561062813205" expanded="true" signature="5340:5556" ph="{...}" />
+            <marker date="1561062813205" expanded="true" signature="5668:6084" ph="{...}" />
+            <marker date="1561062813205" expanded="true" signature="5812:5976" ph="{...}" />
+            <marker date="1561062813205" expanded="true" signature="6173:6823" ph="{...}" />
+            <marker date="1561062813205" expanded="true" signature="6257:6589" ph="{...}" />
+            <marker date="1561062813205" expanded="true" signature="6621:6684" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConnectLibrary/ConnectLibrary.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelperLibrary/HelperLibrary.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebLectionAPI/WebLectionAPI.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

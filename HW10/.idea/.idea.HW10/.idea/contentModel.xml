@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Jony\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Jony\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_HW10.-1309811116.00" t="ExcludeRecursive" />
+    <e p="D:\EPAM\LastHW\esvitelskii\HW10" t="IncludeFlat">
+      <e p="ConnectionLibrary.Tests" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CommonServiceTests.cs" t="Include" />
+        <e p="ConnectionLibrary.Tests.csproj" t="IncludeRecursive" />
+        <e p="GradeServiceTests.cs" t="Include" />
+        <e p="GroupServiceTests.cs" t="Include" />
+        <e p="LectionServiceTests.cs" t="Include" />
+        <e p="LecturerServiceTests.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="StudentServiceTests.cs" t="Include" />
+        <e p="SubjectServiceTests.cs" t="Include" />
+      </e>
+      <e p="ConnectLibrary" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ConnectLibrary.csproj" t="IncludeRecursive" />
+        <e p="DBConnection.cs" t="Include" />
+        <e p="Enums.cs" t="Include" />
+        <e p="LibrarySettings.cs" t="Include" />
+        <e p="Logger" t="Include">
+          <e p="ILogging.cs" t="Include" />
+          <e p="Log4netLogger.cs" t="Include" />
+          <e p="LoggerOperation.cs" t="Include" />
+        </e>
+        <e p="Notification.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Service" t="Include">
+          <e p="CommonService.cs" t="Include" />
+          <e p="GradesService.cs" t="Include" />
+          <e p="GropusService.cs" t="Include" />
+          <e p="LectionsService.cs" t="Include" />
+          <e p="LecturersService.cs" t="Include" />
+          <e p="StudentsService.cs" t="Include" />
+          <e p="SubjectsService.cs" t="Include" />
+        </e>
+        <e p="SQLRepository" t="Include">
+          <e p="CommonRepository.cs" t="Include" />
+          <e p="GradeRepository.cs" t="Include" />
+          <e p="GroupRepository.cs" t="Include" />
+          <e p="Interfaces" t="Include">
+            <e p="ICommonRepository.cs" t="Include" />
+            <e p="IGradeRepository.cs" t="Include" />
+            <e p="IGroupRepository.cs" t="Include" />
+            <e p="ILectionsRepository.cs" t="Include" />
+            <e p="ILecturerRepository.cs" t="Include" />
+            <e p="IPersonRepository.cs" t="Include" />
+            <e p="IRepository.cs" t="Include" />
+            <e p="IStudentRepository.cs" t="Include" />
+            <e p="ISubjectRepository.cs" t="Include" />
+          </e>
+          <e p="LectionRepository.cs" t="Include" />
+          <e p="LecturerRepository.cs" t="Include" />
+          <e p="Prototypes" t="Include">
+            <e p="GeneralRepository.cs" t="Include" />
+            <e p="PersonRepository.cs" t="Include" />
+          </e>
+          <e p="StudentRepository.cs" t="Include" />
+          <e p="SubjectRepository.cs" t="Include" />
+        </e>
+        <e p="ValidationCheckClass.cs" t="Include" />
+      </e>
+      <e p="HelperLibrary" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CustomExceptions" t="Include">
+          <e p="InvalidGradeException.cs" t="Include" />
+          <e p="InvalidLecturerNameException.cs" t="Include" />
+          <e p="InvalidMailExeption.cs" t="Include" />
+          <e p="InvalidNameException.cs" t="Include" />
+          <e p="InvalidPhoneException.cs" t="Include" />
+          <e p="InvalidSubjectNameException.cs" t="Include" />
+        </e>
+        <e p="HelperLibrary.csproj" t="IncludeRecursive" />
+        <e p="Models" t="Include">
+          <e p="CommonModel.cs" t="Include" />
+          <e p="GradeModel.cs" t="Include" />
+          <e p="GroupModel.cs" t="Include" />
+          <e p="Interfaces" t="Include">
+            <e p="IPerson.cs" t="Include" />
+            <e p="ITable.cs" t="Include" />
+          </e>
+          <e p="LectionModel.cs" t="Include" />
+          <e p="LecturerModel.cs" t="Include" />
+          <e p="StudentEventArgs.cs" t="Include" />
+          <e p="StudentModel.cs" t="Include" />
+          <e p="SubjectModel.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Tools.cs" t="Include" />
+      </e>
+      <e p="HW10.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="WebLectionAPI" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="GradeController.cs" t="Include" />
+          <e p="GroupController.cs" t="Include" />
+          <e p="LectionController.cs" t="Include" />
+          <e p="LecturerController.cs" t="Include" />
+          <e p="StudentController.cs" t="Include" />
+          <e p="StudentGradesController.cs" t="Include" />
+          <e p="SubjectController.cs" t="Include" />
+        </e>
+        <e p="log4net.config" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="WebLectionAPI.AssemblyInfo.cs" t="Include" />
+              <e p="WebLectionAPI.RazorAssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="WebLectionAPI.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>

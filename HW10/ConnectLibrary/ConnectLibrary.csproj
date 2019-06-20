@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{20557FD4-253A-41D8-B523-F7D84C1A90E9}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ConnectLibrary</RootNamespace>
+    <AssemblyName>ConnectLibrary</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Dapper, Version=1.60.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>..\packages\Dapper.1.60.6\lib\net451\Dapper.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="log4net, Version=2.0.8.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a">
+      <HintPath>..\packages\log4net.2.0.8\lib\net45-full\log4net.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="LibrarySettings.cs" />
+    <Compile Include="Logger\ILogging.cs" />
+    <Compile Include="Logger\Log4NetLogger.cs" />
+    <Compile Include="Logger\LoggerOperation.cs" />
+    <Compile Include="Notification.cs" />
+    <Compile Include="SQLRepository\CommonRepository.cs" />
+    <Compile Include="SQLRepository\GroupRepository.cs" />
+    <Compile Include="SQLRepository\Interfaces\ICommonRepository.cs" />
+    <Compile Include="SQLRepository\Interfaces\IGroupRepository.cs" />
+    <Compile Include="SQLRepository\Interfaces\ILectionsRepository.cs" />
+    <Compile Include="SQLRepository\Interfaces\ILecturerRepository.cs" />
+    <Compile Include="SQLRepository\Interfaces\IStudentRepository.cs" />
+    <Compile Include="SQLRepository\LectionRepository.cs" />
+    <Compile Include="SQLRepository\LecturerRepository.cs" />
+    <Compile Include="SQLRepository\Interfaces\IPersonRepository.cs" />
+    <Compile Include="SQLRepository\StudentRepository.cs" />
+    <Compile Include="Service\CommonService.cs" />
+    <Compile Include="Service\GradesService.cs" />
+    <Compile Include="Service\GropusService.cs" />
+    <Compile Include="Service\LectionsService.cs" />
+    <Compile Include="Service\LecturersService.cs" />
+    <Compile Include="Service\StudentsService.cs" />
+    <Compile Include="Service\SubjectsService.cs" />
+    <Compile Include="DBConnection.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SQLRepository\Prototypes\GeneralRepository.cs" />
+    <Compile Include="SQLRepository\GradeRepository.cs" />
+    <Compile Include="SQLRepository\Interfaces\IRepository.cs" />
+    <Compile Include="SQLRepository\Interfaces\IGradeRepository.cs" />
+    <Compile Include="SQLRepository\Interfaces\ISubjectRepository.cs" />
+    <Compile Include="SQLRepository\Prototypes\PersonRepository.cs" />
+    <Compile Include="SQLRepository\SubjectRepository.cs" />
+    <Compile Include="Enums.cs" />
+    <Compile Include="ValidationCheckClass.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HelperLibrary\HelperLibrary.csproj">
+      <Project>{4c4e213c-13e3-441a-b811-88973aa5e1ac}</Project>
+      <Name>HelperLibrary</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
